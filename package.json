@@ -1,0 +1,17 @@
+{
+  "name": "dany",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Hello world!",
+  "repository": "https://github.com/vladzadvorny/dany.git",
+  "author": "Vlad Zadvorny <vladzadvorny@outlook.com>",
+  "license": "MIT",
+  "keywords": [
+    "hello",
+    "world",
+    "module"
+  ],
+  "engines": {
+    "node": ">=0.10.48"
+  }
+}
